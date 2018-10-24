@@ -2,12 +2,13 @@
 
 
 > 时钟组件
+
 ![Alt text](http://github-puge.oss-cn-beijing.aliyuncs.com/time/time.png)
 
 ## 安装 及 使用
 
 ```bash
-$ npm install --save @puge/time
+$ npm install --save @puge/clock
 ```
 
 使用组件
@@ -18,7 +19,7 @@ $ npm install --save @puge/time
 </template>
 
 <script>
-  import Clock from '@puge/time'
+  import Clock from '@puge/clock'
   export default {
     components: {
       Clock
