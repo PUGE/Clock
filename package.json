@@ -1,0 +1,32 @@
+{
+  "name": "@puge/clock",
+  "version": "1.0.0",
+  "description": "时钟",
+  "author": "PUGE <my@owo.help>",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puge/clock.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PUGE/clock/issues"
+  },
+  "homepage": "https://github.com/PUGE/clock",
+  "keywords": [
+    "vue",
+    "clock"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
