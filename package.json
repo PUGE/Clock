@@ -1,6 +1,6 @@
 {
   "name": "@puge/clock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "时钟",
   "author": "PUGE <my@owo.help>",
   "main": "./index.js",

@@ -66,7 +66,7 @@ export default {
     // 获取当前日期
     if (this.allDate) {
       const nowDate = new Date()
-      this.date = `${nowDate.getFullYear()}-${nowDate.getMonth()}-${nowDate.getDate()}`
+      this.date = `${nowDate.getFullYear()}-${nowDate.getMonth() + 1}-${nowDate.getDate()}`
     }
     const hoursContainer = this.$el.childNodes[2]
     const minutesContainer = this.$el.childNodes[6]
